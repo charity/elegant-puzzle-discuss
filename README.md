@@ -1,39 +1,34 @@
 elegant-puzzle-discuss
 =========
 
-Welcome!  elegant-puzzle-discuss is a book club and discussion group devoted to "An Elegant Puzzle", by Will Larson.  It is also an experiment in temporary community, and possibly an extremely pretentious psychological art project.
+Welcome!  This is a book club and discussion group for "An Elegant Puzzle", by Will Larson, in summer 2019.  It is also an experiment in pop-up community, and possibly a pretentious sort of art project.
 
 
 Purpose
 -------
 
-This group is for people who want to talk about "An Elegant Puzzle" with other smart people who are going through similar experiences, as well as any related matters of engineering leadership or management, regardless of how closely or distantly related to the source material it may be.
+The members of this group want to read through "An Elegant Puzzle" together with other people facing similar challenges to their own.  Discussion will not be limited topics from the text, it may include any problems or questions on engineering leadership or management, including personal situations.
 
-I want this book to have an enduring impact on this and the next generation of technical leaders, and want to do my part to spread and interrogate its content. 
+This is not a permanent community.  There are plenty of those already.  The group is a temporary participatory space that will disperse once we are done reading and discussing the book.  I hope that this will add urgency, focus, and commitment to our discussion.
 
-
-This is not a permanent community.  We have plenty of those already.  The group is a temporary participatory space spun up to communally process a dense relevant text over the summer of 2019, and then we will disperse again.  Think book club meets EC2 spot instances.  My theory is that a time bounded container may enrich the caliber of discourse by adding urgency and focus.
-
-I plan to leave the archives up after postings have been disabled, but will ask the group for consent before doing so.
-
-This group was created with the consent and some participation of Will Larson (but he is not responsible for any messes which may result)
-
+Will Larson was not harmed in the making of this group.  (Yes, he does plan to subscribe and participate, but is not to be held responsible for any messes that result.)
 
 Rules and Guidelines
 ---------
 
-* There will be a list of moderators, made public in this space.
-* Anyone who meets these criteria and wants to participate is welcome to join.
-* To join the group, first read the rest of this README and our Code of Conduct.  If you do not agree to the terms, please do not join this list.
-* If you agree to these terms, send an introductory email about yourself to elegant-puzzle-discuss@googlegroups.com.  Tell the group who you are, what you do, what you are hoping to learn or get out of this book club slash temporary art installation.
-* We want everyone who joins to actively participate, so we will cap the subscriber list at something reasonable (30? 50?)
-* I may tweet about it once, to fish outside my immediate pond, but other than that, please do not *publicly promote* the existence of this list to any mass audiences.  We would like to gather interested people primarily by word of mouth and personal recommendations, not impersonal blasts.
-* You are encouraged to pass this README along to any thoughtful technical leaders, managers or engineers who you think would be excellent contributors to this dialogue.
-* At some point we will turn off signups, so don't delay.
+I hope we all know how to be good citizens, and the moderators will have nothing to do.  But if we need to, we will privately nudge people, issue warnings, or unsubscribe people for counterproductive behavior or CoC violations.
 
-Hopefully we all know how to be good citizens of a mailing list community, and the moderators will have nothing to do.  But if we need to, we will privately nudge people, issue warnings, or unsubscribe people for counterproductive behavior or CoC violations.
+**Moderator list: tbd**
 
-If you have a problem, please contact any of the moderators for help.
+* Who can join?  Anyone who fits the bill (below).
+* You must read the Code of Conduct and this README before you join.
+* To join, send an introductory email to elegant-puzzle-discuss@googlegroups.com. 
+* We will cap the subscriber list at something reasonable (30? 50?) so everyone can participate and it's not too overwhelming.
+* Please do not publicly promote the existence of this list to any mass audiences.
+* Please do invite people who will have wise and/or interesting things to say, via word of mouth or personal invite.
+* At some point we will cap signups, so don't delay.  :)
+
+If you have a problem, please contact a moderator.
 
 
 Who can join?
