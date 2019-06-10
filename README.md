@@ -46,7 +46,7 @@ Please read the [Code of Conduct](https://github.com/charity/elegant-puzzle-disc
   <dt><bold> How do I do that? </bold> </dt>
   <dd> To join the list, send an email to the list (elegant-puzzle-discuss@googlegroups.com) introducing yourself.  Aim for 3-5 pragrphs or so -- enough context on who you are, what you do, why you're here / why you care to help people contextualize your replies. </dd>
   <dt> <strong> Can I invite someone?</strong> </dt>
-  <dd> Please do!  If you know someone who loves thinking and discussing these issues, point them here  However, please do not post this to a broad public audience, e.g. your twitter feed.</dd>  
+  <dd> Please do!  If you know someone who loves thinking and discussing these issues, point them here to subscribe  Please do not post this to a broad public audience, e.g. your twitter feed, but smaller forums where you know and vouch for the readership are fine.</dd>  
   <dt> Will the list be moderated?</dt>
   <dd> Email subscriptions will be moderated, but once subscribed, posts will go straight to the subscribers.</dd>
 </dl>
