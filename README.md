@@ -6,15 +6,15 @@ Welcome!  This is a book club and discussion group for ["An Elegant Puzzle"](htt
 Purpose
 -------
 
-The purpose of this group is to book study ["An Elegant Puzzle"](https://lethain.com/elegant-puzzle/) discuss any questions, contradictions, or challenges that came up for us while doing so, with a group of our peers.  Discussion is not limited to textual analysis from the text; we may discuss problems or questions on engineering leadership or management, including stories from our own lives. 
+The purpose of this group is to book study ["An Elegant Puzzle"](https://lethain.com/elegant-puzzle/) discuss any questions, contradictions, or challenges that came up for us while doing so, with a group of our peers.  Discussion need not be strictly limited to the text; personal stories or anecdotes or questions about engineering leadership or management are fair game.
 
-This is not a permanent community.  There are plenty of those already.  The group is a temporary participatory space that will disperse once we are done reading and discussing the book.  My hope is that this may add urgency, focus, and commitment to our discussion.
+This is not a permanent community.  There are plenty of those already.  The group is a **temporary participatory space** that will disperse once we are done reading and discussing the book, around the first week of August.
 
 ## Book club
 
-Starting Sunday, June 16th, we will cover one chapter per week, rolling on to the next each following Sunday.
+Starting Sunday, June 16th, we will cover one chapter per week.  Every Sunday, I or another moderator will kick off an open thread with some thoughts on the next chapter.  
 
-A moderator will kick off an open thread each Sunday with some thoughts on the new chapter.  Please start new threads (or fork existing threads) at will.  All topics we've already covered fare fair game, but try not to drift into upcoming chapter topics.
+But please start new threads (or fork existing threads) at will.  All topics we've already covered fare fair game, but try not to drift into upcoming chapter topics.
 
 ### Chapter schedule
 
@@ -32,11 +32,9 @@ A moderator will kick off an open thread each Sunday with some thoughts on the n
 
 ## Who should join?
 
-* People who want to _participate_.  Lurking is not strictly forbidden, beyond an introduction email, but discouraged.
-* People who devoured the book and want to engage in more depth.
-* Engineers and technical practitioners in relatively senior roles (at least 5-7 years?)
+* People who are interested in building great teams and want to discuss it further with their peers.
+* Engineers and technical practitioners (perhaps most valuable for those in relatively senior roles)
 * Managers of engineering or other technical teams
-* Leaders, founders, and executives of technical organizations who want to level up at these skills
 
 ## Frequently Asked Questions
  
