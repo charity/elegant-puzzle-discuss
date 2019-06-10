@@ -1,45 +1,22 @@
 elegant-puzzle-discuss
 =========
 
-Welcome!  This is a book club and discussion group for "An Elegant Puzzle", by Will Larson, in summer 2019.  It is also an experiment in pop-up community, and possibly a pretentious sort of art project.
-
+Welcome!  This is a book club and discussion group for ["An Elegant Puzzle"](https://lethain.com/elegant-puzzle/), by [Will Larson](https://twitter.com/lethain), in summer 2019.  It is also an experiment in pop-up community, and possibly kind of an art project?  I've wanted to try something like this for a while..  ¯\_(ツ)_/¯
 
 Purpose
 -------
 
-The members of this group want to read through "An Elegant Puzzle" together with other people facing similar challenges to their own.  Discussion will not be limited topics from the text, it may include any problems or questions on engineering leadership or management, including personal situations.
+The purpose of this group is to book study ["An Elegant Puzzle"](https://lethain.com/elegant-puzzle/) discuss any questions, contradictions, or challenges that came up for us while doing so, with a group of our peers.  Discussion is not limited to textual analysis from the text; we may discuss problems or questions on engineering leadership or management, including stories from our own lives. 
 
-This is not a permanent community.  There are plenty of those already.  The group is a temporary participatory space that will disperse once we are done reading and discussing the book.  I hope that this will add urgency, focus, and commitment to our discussion.
-
-Will Larson was not harmed in the making of this group.  (Yes, he does plan to subscribe and participate, but is not to be held responsible for any messes that result.)
-
-## Who should join?
-
-* People who intend to _participate_, not rubberneck
-* Readers of the book "An Elegant Puzzle" who wish to engage in more depth
-* Engineers and technical practitioners in relatively senior roles (7+ years?)
-* Managers of engineering or other technical teams
-* Leaders, founders, and executives of technical organizations who want to level up at these skills
-
-*NOT: recruiters, lurkers, mystery folks with no intro, people who are into the subject matter but won't read the book, jerks*
-
-## Rules and Guidelines
-
-* Read the Code of Conduct before you join.
-* To join, send an email introducing yourself to the list (elegant-puzzle-discuss@googlegroups.com).  
-* Please DO pass this along to awesome people who you think would be an excellent contribution to the discussion. Your company, org, team, private lists are fine, but personal referrals and invites are our preference.
-* Please don't promote the existence of this list publicly to any mass audience.
-* We will cap the subscriber list at something reasonable (30? 50?) to keep it to a conversational maximum. Don't delay..
-
-Moderators will be (tbd).  Hopefully we will have nothing to do!  But we will moderate if necessary, by privately nudging, issuing warnings, or even unsubscribing people (for CoC violations).  If you have a problem, please tell a moderator. 
+This is not a permanent community.  There are plenty of those already.  The group is a temporary participatory space that will disperse once we are done reading and discussing the book.  My hope is that this may add urgency, focus, and commitment to our discussion.
 
 ## Book club
 
 Starting Sunday, June 16th, we will cover one chapter per week, rolling on to the next each following Sunday.
 
-I or another mod will kick off an open thread each Sunday with some thoughts on the new chapter.  Please start new threads (or fork existing threads) at will.  All topics we've already covered fare fair game, but try not to drift into upcoming chapter topics.
+A moderator will kick off an open thread each Sunday with some thoughts on the new chapter.  Please start new threads (or fork existing threads) at will.  All topics we've already covered fare fair game, but try not to drift into upcoming chapter topics.
 
-### Calendar
+### Chapter schedule
 
 | Date | Chapter |  |
 | ---- | --------| ------- |
@@ -53,4 +30,30 @@ I or another mod will kick off an open thread each Sunday with some thoughts on 
 | 2019-07-28 | Farewells. | Wrap up final thoughts, wind down connections | 
 | 2019-08-04 | Poweroff | @charity disables new postings 
 
+## Who should join?
 
+* People who want to _participate_.  Lurking is not strictly forbidden, beyond an introduction email, but discouraged.
+* People who devoured the book and want to engage in more depth.
+* Engineers and technical practitioners in relatively senior roles (at least 5-7 years?)
+* Managers of engineering or other technical teams
+* Leaders, founders, and executives of technical organizations who want to level up at these skills
+
+## Frequently Asked Questions
+ 
+Please read the [Code of Conduct](CODE_OF_CONDUCT) before you join.  (tldr don't be a dick, follow [Chatham House Rules](https://en.wikipedia.org/wiki/Chatham_House_Rule))
+
+<dl>
+  <dt><bold> Can I join?</bold></dt>
+  <dd> Yes.  <b>If you want to join, you may join</b>.  [These guidelines](#who-should-join) are to help you gauge your interest, not for gatekeeping.</dd>
+  <dt><bold> How do I do that? </bold> </dt>
+  <dd> To join the list, send an email to the list (elegant-puzzle-discuss@googlegroups.com) introducing yourself.  Aim for 3-5 pragrphs or so -- enough context on who you are, what you do, why you're here / why you care to help people contextualize your replies. </dd>
+  <dt> <strong> Can I invite someone?</strong> </dt>
+  <dd> Please do!  If you know someone who loves thinking and discussing these issues, point them here  However, please do not post this to a broad public audience, e.g. your twitter feed.</dd>  
+  <dt> Will the list be moderated?</dt>
+  <dd> Email subscriptions will be moderated, but once subscribed, posts will go straight to the subscribers.</dd>
+</dl>
+
+## Credits
+
+Will Larson was not harmed in the making of this group.  Thanks to Cindy Sridharan for agreeing to co-moderate with me.
+ 
