@@ -38,11 +38,11 @@ But please start new threads (or fork existing threads) at will.  All topics we'
 
 ## Frequently Asked Questions
  
-Please read the [Code of Conduct](CODE_OF_CONDUCT) before you join.  (tldr don't be a dick, follow [Chatham House Rules](https://en.wikipedia.org/wiki/Chatham_House_Rule))
+Please read the [Code of Conduct](https://github.com/charity/elegant-puzzle-discuss/edit/master/CODE_OF_CONDUCT.md) before you join.  (tldr don't be a dick, follow [Chatham House Rules](https://en.wikipedia.org/wiki/Chatham_House_Rule))
 
 <dl>
   <dt><bold> Can I join?</bold></dt>
-  <dd> Yes.  <b>If you want to join, you may join</b>.  [These guidelines](#who-should-join) are to help you gauge your interest, not for gatekeeping.</dd>
+  <dd> Yes.  <b>If you want to join, you may join</b>.  These guidelines are to help gauge your interest, not for gatekeeping.</dd>
   <dt><bold> How do I do that? </bold> </dt>
   <dd> To join the list, send an email to the list (elegant-puzzle-discuss@googlegroups.com) introducing yourself.  Aim for 3-5 pragrphs or so -- enough context on who you are, what you do, why you're here / why you care to help people contextualize your replies. </dd>
   <dt> <strong> Can I invite someone?</strong> </dt>
