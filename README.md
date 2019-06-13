@@ -23,7 +23,7 @@ But please start new threads (or fork existing threads) at will.  All topics we'
 
 ## Frequently Asked Questions
  
-Please read the [Code of Conduct](https://github.com/charity/elegant-puzzle-discuss/edit/master/CODE_OF_CONDUCT.md) before you join.  (tldr don't be a dick, follow [Chatham House Rules](https://en.wikipedia.org/wiki/Chatham_House_Rule)). 
+Please read the [Code of Conduct](https://github.com/charity/elegant-puzzle-discuss/blob/master/CODE_OF_CONDUCT.md) before you join.  (tldr don't be a dick, follow [Chatham House Rules](https://en.wikipedia.org/wiki/Chatham_House_Rule)). 
 
 <dl>
   <dt><bold> Can I join?</bold></dt>
